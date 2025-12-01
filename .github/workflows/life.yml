@@ -1,4 +1,4 @@
-name: Daily Streak Commit
+name:Daily Streak Commit
 
 on:
   schedule:
